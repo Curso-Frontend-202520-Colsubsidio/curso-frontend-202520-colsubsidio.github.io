@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+ul {
+  display: block;
+  list-style-type: none;
+  text-align: center;
+  padding: 5;
+  margin: 10;
+}
+h2 {
+  text-align: center;
+}
+#me {
+  display: block;
+  margin: auto;
+}
+#tabla {
+  width: 60%;
+  margin: auto;
+}
+#resume {
+  text-align: justify;
+}
+form {
+  width: 50%;
+}
+footer {
+  text-align: center;
+}
